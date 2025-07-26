@@ -1,0 +1,15 @@
+# Ignore IntelliJ files
+.idea/
+*.iml
+
+# Ignore Maven/Gradle files (if not needed)
+target/
+build/
+
+# Ignore React build
+frontend/node_modules/
+frontend/build/
+
+# Common OS junk
+.DS_Store
+Thumbs.db
