@@ -1,0 +1,21 @@
+# Node modules
+frontend/node_modules/
+
+# Build output
+frontend/build/
+backend/target/
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+*.iml
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Env Files
+*.env
